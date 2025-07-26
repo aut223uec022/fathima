@@ -1,2 +1,2 @@
-c,d=80,30
-print(d-c)
+r,d=80,90
+print(d-r)
